@@ -1,6 +1,6 @@
 local M = {}
 
-local hsluv = require "catppuccin.lib.hsluv"
+local hsluv = require "cyberpunk.lib.hsluv"
 
 M.bg = "#000000"
 M.fg = "#ffffff"
@@ -100,7 +100,7 @@ function M.assert_brightness(color)
 end
 
 function M.vary_color(palettes, default)
-	local flvr = require("catppuccin").flavour
+	local flvr = require("cyberpunk").flavour
 
 	if palettes[flvr] ~= nil then return palettes[flvr] end
 	return default

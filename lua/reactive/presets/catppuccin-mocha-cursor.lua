@@ -1,4 +1,4 @@
-local palette = require("catppuccin.palettes").get_palette "mocha"
-local presets = require "catppuccin.utils.reactive"
+local palette = require("cyberpunk.palettes").get_palette "mocha"
+local presets = require "cyberpunk.utils.reactive"
 
-return presets.cursor("catppuccin-mocha-cursor", palette)
+return presets.cursor("cyberpunk-mocha-cursor", palette)

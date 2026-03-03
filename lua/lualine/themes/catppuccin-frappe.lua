@@ -1,1 +1,1 @@
-return require "catppuccin.utils.lualine" "frappe"
+return require "cyberpunk.utils.lualine" "frappe"

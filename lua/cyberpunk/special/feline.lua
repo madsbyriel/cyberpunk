@@ -1,6 +1,6 @@
 local M = {}
 
-local C = require("catppuccin.palettes").get_palette()
+local C = require("cyberpunk.palettes").get_palette()
 local ok, lsp = pcall(require, "feline.providers.lsp")
 local assets = nil
 
@@ -37,13 +37,13 @@ if ok then
 		show_lazy_updates = false,
 	}
 
-	if require("catppuccin").flavour == "latte" then
-		local latte = require("catppuccin.palettes").get_palette "latte"
+	if require("cyberpunk").flavour == "latte" then
+		local latte = require("cyberpunk.palettes").get_palette "latte"
 		sett.text = latte.base
 		sett.bkg = latte.crust
 	end
 
-	if require("catppuccin").options.transparent_background then sett.bkg = "NONE" end
+	if require("cyberpunk").options.transparent_background then sett.bkg = "NONE" end
 
 	local mode_colors = {
 		["n"] = { "NORMAL", C.lavender },

@@ -1,1 +1,1 @@
-return require "catppuccin.utils.barbecue" "frappe"
+return require "cyberpunk.utils.barbecue" "frappe"

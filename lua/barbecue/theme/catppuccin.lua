@@ -1,1 +1,1 @@
-return require "catppuccin.utils.barbecue"()
+return require "cyberpunk.utils.barbecue"()

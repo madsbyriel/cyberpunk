@@ -1,1 +1,1 @@
-lua require("catppuccin").load "mocha"
+lua require("cyberpunk").load "mocha"

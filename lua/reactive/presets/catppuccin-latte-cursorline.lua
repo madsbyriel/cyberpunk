@@ -1,8 +1,8 @@
-local lighten = require("catppuccin.utils.colors").lighten
-local palette = require("catppuccin.palettes").get_palette "latte"
+local lighten = require("cyberpunk.utils.colors").lighten
+local palette = require("cyberpunk.palettes").get_palette "latte"
 
 return {
-	name = "catppuccin-latte-cursorline",
+	name = "cyberpunk-latte-cursorline",
 	static = {
 		winhl = {
 			inactive = {

@@ -1,1 +1,1 @@
-return require "catppuccin.utils.lualine" "macchiato"
+return require "cyberpunk.utils.lualine" "macchiato"

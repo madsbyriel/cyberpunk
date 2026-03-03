@@ -18,13 +18,13 @@ return {
 	mauve = "#c5003c", -- keywords
 	red = "#d600ff", -- this keyword?
 	maroon = "#880425", -- parameter names
-	yellow = "#ffff00", -- class names, imports
+	yellow = "#cccc00", -- class names, imports
 	teal = "#94e2d5",
 	sky = "#55ead4", -- fx assignment in this doc
 	sapphire = "#74c7ec",
 	blue = "#711c91", -- first words in bash fx, method calls
 	lavender = "#880425", -- fields in this return statement
-	text = "#c5003c", -- variable names and suggestions
+	text = "#ffff00", -- variable names and suggestions
 	subtext1 = "#bac2de",
 	subtext0 = "#a6adc8",
 	overlay2 = "#cccc00", -- comments and REST of a semicompleted suggestions, dots in Class.Method

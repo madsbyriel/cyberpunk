@@ -11,20 +11,19 @@
 -- @define-color pink #d600ff;
 
 return {
-	rosewater = "#f5e0dc", -- git titles????
-	flamingo = "#f2cdcd",
-	pink = "#f5c2e7",
-	mauve = "#880425", -- keywords
-	red = "#c5003c",
-	maroon = "#880425", -- parameter names
 	peach = "#00b8ff", -- numbers in C#
-	yellow = "#ffff00", -- class names, imports
 	green = "#00ff9f", -- strings
+
+	rosewater = "#d600ff", -- git titles, ???
+	mauve = "#c5003c", -- keywords
+	red = "#d600ff", -- this keyword?
+	maroon = "#880425", -- parameter names
+	yellow = "#ffff00", -- class names, imports
 	teal = "#94e2d5",
 	sky = "#55ead4", -- fx assignment in this doc
 	sapphire = "#74c7ec",
 	blue = "#711c91", -- first words in bash fx, method calls
-	lavender = "#c5003c", -- fields in this return statement
+	lavender = "#880425", -- fields in this return statement
 	text = "#c5003c", -- variable names and suggestions
 	subtext1 = "#bac2de",
 	subtext0 = "#a6adc8",
@@ -37,4 +36,7 @@ return {
 	base = "#000000", -- background -done
 	mantle = "#0d0d0d", -- file view background, also text in luabar -done
 	crust = "#11111b",
+
+	flamingo = "#f2cdcd",
+	pink = "#f5c2e7",
 }

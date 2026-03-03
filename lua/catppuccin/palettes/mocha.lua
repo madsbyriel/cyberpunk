@@ -34,7 +34,7 @@ return {
 	surface2 = "#585b70",
 	surface1 = "#45475a",
 	surface0 = "#313244", -- also some part of the luabar leftside, rightmost part
-	base = "#262626", -- background -done
-	mantle = "#000000", -- file view background, also text in luabar -done
+	base = "#000000", -- background -done
+	mantle = "#262626", -- file view background, also text in luabar -done
 	crust = "#11111b",
 }

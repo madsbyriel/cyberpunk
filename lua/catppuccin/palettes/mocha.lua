@@ -22,7 +22,7 @@ return {
 	teal = "#94e2d5",
 	sky = "#55ead4", -- fx assignment in this doc
 	sapphire = "#74c7ec",
-	blue = "#711c91", -- first words in bash fx, method calls
+	blue = "#ff004c", -- first words in bash fx, method calls
 	lavender = "#880425", -- fields in this return statement
 	text = "#ffff00", -- variable names and suggestions
 	subtext1 = "#bac2de",

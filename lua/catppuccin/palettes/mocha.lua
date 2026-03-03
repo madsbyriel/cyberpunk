@@ -28,13 +28,13 @@ return {
 	text = "#ffff00", -- variable names and suggestions
 	subtext1 = "#bac2de",
 	subtext0 = "#a6adc8",
-	overlay2 = "#9399b2", -- comments and REST of a semicompleted suggestions, dots in Class.Method
+	overlay2 = "#cccc00", -- comments and REST of a semicompleted suggestions, dots in Class.Method
 	overlay1 = "#7f849c",
 	overlay0 = "#6c7086",
 	surface2 = "#585b70",
 	surface1 = "#45475a",
 	surface0 = "#313244", -- also some part of the luabar leftside, rightmost part
 	base = "#000000", -- background -done
-	mantle = "#262626", -- file view background, also text in luabar -done
+	mantle = "#0d0d0d", -- file view background, also text in luabar -done
 	crust = "#11111b",
 }

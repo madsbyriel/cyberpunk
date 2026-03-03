@@ -11,7 +11,7 @@
 -- @define-color pink #d600ff;
 
 return {
-	rosewater = "#f5e0dc",
+	rosewater = "#f5e0dc", -- git titles????
 	flamingo = "#f2cdcd",
 	pink = "#f5c2e7",
 	mauve = "#ffff00", -- keywords

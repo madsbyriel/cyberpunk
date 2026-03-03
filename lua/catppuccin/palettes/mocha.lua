@@ -14,7 +14,7 @@ return {
 	rosewater = "#f5e0dc",
 	flamingo = "#f2cdcd",
 	pink = "#f5c2e7",
-	mauve = "#cba6f7",
+	mauve = "#000000", -- keywords?
 	red = "#c5003c",
 	maroon = "#eba0ac",
 	peach = "#fab387",
@@ -28,13 +28,13 @@ return {
 	text = "#ffff00",
 	subtext1 = "#bac2de",
 	subtext0 = "#a6adc8",
-	overlay2 = "#9399b2",
+	overlay2 = "#9399b2", -- comments
 	overlay1 = "#7f849c",
 	overlay0 = "#6c7086",
 	surface2 = "#585b70",
 	surface1 = "#45475a",
 	surface0 = "#313244",
-	base = "#1e1e2e",
+	base = "#1e1e2e", -- background
 	mantle = "#181825",
 	crust = "#11111b",
 }

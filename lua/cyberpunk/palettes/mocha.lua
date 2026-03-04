@@ -10,21 +10,33 @@
 -- @define-color dark_pink #bd00ff;
 -- @define-color pink #d600ff;
 
+-- yellow!
+-- darkness ^^^
+-- method calls     - 8f9900
+-- fields           - becc00
+-- variable names   - efff00
+
+-- class name and keyword should complement each other
+-- class: e8174f (pink), keywords: 16e9cd (lightblue)
+-- maybe pink/lightblue?
+
 return {
-	peach = "#00b8ff", -- numbers in C#
-	green = "#00ff9f", -- strings
+	blue = "#880425",   -- method calls, first words in bash fx, directories in treeview
+	lavender = "#becc00", -- fields, members
+	text = "#efff00",   -- variable names and lots of text
+
+	mauve = "#16e9cd",  -- keywords
+	yellow = "#e8174f", -- class names, imports
+
+	peach = "#00b8ff",  -- numbers in C#
+	green = "#00ff9f",  -- strings
 
 	rosewater = "#d600ff", -- git titles, ???
-	mauve = "#ea3061", -- keywords
-	red = "#d600ff", -- this keyword?
+	red = "#d600ff",    -- this keyword?
 	maroon = "#880425", -- parameter names
-	yellow = "#32d6d7", -- class names, imports
 	teal = "#94e2d5",
-	sky = "#55ead4", -- fx assignment in this doc
+	sky = "#55ead4",    -- fx assignment in this doc
 	sapphire = "#74c7ec",
-	blue = "#ffffff", -- first words in bash fx, method calls, directories in treeview
-	lavender = "#880425", -- fields in this return statement
-	text = "#efff00", -- variable names and suggestions
 	subtext1 = "#bac2de",
 	subtext0 = "#a6adc8",
 	overlay2 = "#8f9900", -- comments and REST of a semicompleted suggestions, dots in Class.Method
@@ -33,7 +45,7 @@ return {
 	surface2 = "#585b70",
 	surface1 = "#8f9900", -- line numbers
 	surface0 = "#313244", -- also some part of the luabar leftside, rightmost part
-	base = "#000000", -- background -done
+	base = "#000000",  -- background -done
 	mantle = "#0d0d0d", -- file view background, also text in luabar -done
 	crust = "#11111b",
 

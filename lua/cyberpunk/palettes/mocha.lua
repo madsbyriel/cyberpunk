@@ -22,10 +22,10 @@
 -- maybe pink/lightblue?
 
 return {
-	blue = "#8f9900",   -- method calls, first words in bash fx, directories in treeview
+	blue = "#f2bd1f",   -- method calls, first words in bash fx, directories in treeview
 	lavender = "#becc00", -- fields, members
 	text = "#efff00",   -- variable names and lots of text
-	maroon = "#f2bd1f", -- parameter names
+	maroon = "#8f9900", -- parameter names
 
 	mauve = "#e8174f",  -- keywords
 	yellow = "#16e9cd", -- class names, imports

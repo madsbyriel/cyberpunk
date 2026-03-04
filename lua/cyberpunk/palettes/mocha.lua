@@ -15,7 +15,7 @@ return {
 	green = "#00ff9f", -- strings
 
 	rosewater = "#d600ff", -- git titles, ???
-	mauve = "#ed3163", -- keywords
+	mauve = "#55ead4", -- keywords
 	red = "#d600ff", -- this keyword?
 	maroon = "#880425", -- parameter names
 	yellow = "#cccc00", -- class names, imports

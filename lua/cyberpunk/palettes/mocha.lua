@@ -18,7 +18,7 @@ return {
 	mauve = "#ea3061", -- keywords
 	red = "#d600ff", -- this keyword?
 	maroon = "#880425", -- parameter names
-	yellow = "#cccc00", -- class names, imports
+	yellow = "#32d6d7", -- class names, imports
 	teal = "#94e2d5",
 	sky = "#55ead4", -- fx assignment in this doc
 	sapphire = "#74c7ec",

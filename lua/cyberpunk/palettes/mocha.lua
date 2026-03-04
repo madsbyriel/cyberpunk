@@ -27,7 +27,7 @@ return {
 	text = "#efff00", -- variable names and suggestions
 	subtext1 = "#bac2de",
 	subtext0 = "#a6adc8",
-	overlay2 = "#cccc00", -- comments and REST of a semicompleted suggestions, dots in Class.Method
+	overlay2 = "#8f9900", -- comments and REST of a semicompleted suggestions, dots in Class.Method
 	overlay1 = "#7f849c",
 	overlay0 = "#6c7086",
 	surface2 = "#585b70",

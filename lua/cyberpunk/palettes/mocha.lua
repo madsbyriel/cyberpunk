@@ -10,13 +10,12 @@
 -- @define-color dark_pink #bd00ff;
 -- @define-color pink #d600ff;
 
--- yellow!
+-- variables & methods:
 -- darkness ^^^
--- method calls     - 8f9900
--- fields           - becc00
--- variable names   - efff00
---
--- parameter names are a brighter orange (f2bd1f), resembling vars
+-- method calls     - f2bd1f (bright orange)
+-- fields           - becc00 (mid yellow)
+-- variable names   - efff00 (bright yellow)
+-- param names      - 8f9900 (dark yellow)
 
 -- class name and keyword should complement each other
 -- class: 16e9cd (lightblue), keywords: e8174f (pink)

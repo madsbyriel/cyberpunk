@@ -15,14 +15,14 @@ return {
 	green = "#00ff9f", -- strings
 
 	rosewater = "#d600ff", -- git titles, ???
-	mauve = "#d11547", -- keywords
+	mauve = "#ea3061", -- keywords
 	red = "#d600ff", -- this keyword?
 	maroon = "#880425", -- parameter names
 	yellow = "#32d6d7", -- class names, imports
 	teal = "#94e2d5",
 	sky = "#55ead4", -- fx assignment in this doc
 	sapphire = "#74c7ec",
-	blue = "#ed4572", -- first words in bash fx, method calls, directories in treeview
+	blue = "#ffffff", -- first words in bash fx, method calls, directories in treeview
 	lavender = "#880425", -- fields in this return statement
 	text = "#efff00", -- variable names and suggestions
 	subtext1 = "#bac2de",

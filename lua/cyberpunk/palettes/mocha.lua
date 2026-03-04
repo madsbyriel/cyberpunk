@@ -17,7 +17,7 @@
 -- variable names   - efff00
 
 -- class name and keyword should complement each other
--- class: e8174f (pink), keywords: 16e9cd (lightblue)
+-- class: 16e9cd (lightblue), keywords: e8174f (pink)
 -- maybe pink/lightblue?
 
 return {
@@ -25,8 +25,8 @@ return {
 	lavender = "#becc00", -- fields, members
 	text = "#efff00",   -- variable names and lots of text
 
-	mauve = "#16e9cd",  -- keywords
-	yellow = "#e8174f", -- class names, imports
+	mauve = "#e8174f",  -- keywords
+	yellow = "#16e9cd", -- class names, imports
 
 	peach = "#00b8ff",  -- numbers in C#
 	green = "#00ff9f",  -- strings

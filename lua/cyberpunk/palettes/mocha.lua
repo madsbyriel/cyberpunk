@@ -15,6 +15,8 @@
 -- method calls     - 8f9900
 -- fields           - becc00
 -- variable names   - efff00
+--
+-- parameter names are a brighter orange (f2bd1f), resembling vars
 
 -- class name and keyword should complement each other
 -- class: 16e9cd (lightblue), keywords: e8174f (pink)
@@ -24,6 +26,7 @@ return {
 	blue = "#8f9900",   -- method calls, first words in bash fx, directories in treeview
 	lavender = "#becc00", -- fields, members
 	text = "#efff00",   -- variable names and lots of text
+	maroon = "#f2bd1f", -- parameter names
 
 	mauve = "#e8174f",  -- keywords
 	yellow = "#16e9cd", -- class names, imports
@@ -33,7 +36,6 @@ return {
 
 	rosewater = "#d600ff", -- git titles, ???
 	red = "#d600ff",    -- this keyword?
-	maroon = "#880425", -- parameter names
 	teal = "#94e2d5",
 	sky = "#55ead4",    -- fx assignment in this doc
 	sapphire = "#74c7ec",

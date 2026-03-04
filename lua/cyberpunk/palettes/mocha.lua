@@ -31,7 +31,7 @@ return {
 	overlay1 = "#7f849c",
 	overlay0 = "#6c7086",
 	surface2 = "#585b70",
-	surface1 = "#cccc00", -- line numbers
+	surface1 = "#8f9900", -- line numbers
 	surface0 = "#313244", -- also some part of the luabar leftside, rightmost part
 	base = "#000000", -- background -done
 	mantle = "#0d0d0d", -- file view background, also text in luabar -done

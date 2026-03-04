@@ -21,7 +21,7 @@
 -- maybe pink/lightblue?
 
 return {
-	blue = "#880425",   -- method calls, first words in bash fx, directories in treeview
+	blue = "#8f9900",   -- method calls, first words in bash fx, directories in treeview
 	lavender = "#becc00", -- fields, members
 	text = "#efff00",   -- variable names and lots of text
 

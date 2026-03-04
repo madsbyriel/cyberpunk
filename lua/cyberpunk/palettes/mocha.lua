@@ -2,7 +2,7 @@
 -- @define-color red #c5003c;
 -- @define-color dark_red #880425;
 -- @define-color light_yellow #ffff80;
--- @define-color yellow #ffff00;
+-- @define-color yellow #ffff00; #efff00;
 -- @define-color aqua #55ead4;
 -- @define-color green #00ff9f;
 -- @define-color light_blue #00b8ff;
@@ -24,7 +24,7 @@ return {
 	sapphire = "#74c7ec",
 	blue = "#ff004c", -- first words in bash fx, method calls
 	lavender = "#880425", -- fields in this return statement
-	text = "#ffff00", -- variable names and suggestions
+	text = "#efff00", -- variable names and suggestions
 	subtext1 = "#bac2de",
 	subtext0 = "#a6adc8",
 	overlay2 = "#cccc00", -- comments and REST of a semicompleted suggestions, dots in Class.Method
